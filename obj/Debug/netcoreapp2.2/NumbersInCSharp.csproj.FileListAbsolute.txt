@@ -1,0 +1,11 @@
+/Users/sock/code/myDotNetNumberQuickStart/bin/Debug/netcoreapp2.2/NumbersInCSharp.deps.json
+/Users/sock/code/myDotNetNumberQuickStart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.json
+/Users/sock/code/myDotNetNumberQuickStart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.dev.json
+/Users/sock/code/myDotNetNumberQuickStart/bin/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/sock/code/myDotNetNumberQuickStart/bin/Debug/netcoreapp2.2/NumbersInCSharp.pdb
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfo.cs
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/sock/code/myDotNetNumberQuickStart/obj/Debug/netcoreapp2.2/NumbersInCSharp.pdb
